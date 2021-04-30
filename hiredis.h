@@ -46,8 +46,8 @@ typedef long long ssize_t;
 #include "alloc.h" /* for allocation wrappers */
 
 #define HIREDIS_MAJOR 1
-#define HIREDIS_MINOR 0
-#define HIREDIS_PATCH 1
+#define HIREDIS_MINOR 1
+#define HIREDIS_PATCH 0
 #define HIREDIS_SONAME 1.0.1-dev
 
 /* Connection type can be blocking or non-blocking and is set in the
